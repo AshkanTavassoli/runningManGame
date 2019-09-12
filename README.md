@@ -1,4 +1,4 @@
-# Running Man Survival Mode Game
+# Fluffy Running Man Survival Mode Game
 
 Created using onlly openGL(C++) without usage of any external libraries (At least I think so!)
 
