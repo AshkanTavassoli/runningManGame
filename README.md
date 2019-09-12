@@ -6,9 +6,7 @@ Created using only openGL(C++) without usage of any external libraries (At least
 
 Use this command to compile:
 
-'''
-g++ fluffyRunningMan.cpp GLWindow.cpp -o fluffyRunningMan -lopengl32 -lglew32 -lfreeglut -lglu32 -lgdi32
-'''
+```g++ fluffyRunningMan.cpp GLWindow.cpp -o fluffyRunningMan -lopengl32 -lglew32 -lfreeglut -lglu32 -lgdi32```
 
 You can change the camera angle and distance. A tutorial will apear once you open the game!
 
