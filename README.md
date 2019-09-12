@@ -6,6 +6,8 @@ A great tutorial on how to install required libraries and compiler to compile th
 
 https://medium.com/@bhargav.chippada19/how-to-setup-opengl-on-mingw-w64-in-windows-10-64-bits-b77f350cea7e
 
+If you used that tutorial make sure you link against gdi32 (i.e. add -lgdi32 to the linker command line)
+
 My first attemp at openGL, so some parts may be just exploratory stuff.
 
 Hope you enjoy!
