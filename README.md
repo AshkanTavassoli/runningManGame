@@ -6,7 +6,7 @@ Created using only openGL(C++) without usage of any external libraries (At least
 
 [A great tutorial on how to install required libraries and compiler to compile this mini game on Windows](https://medium.com/@bhargav.chippada19/how-to-setup-opengl-on-mingw-w64-in-windows-10-64-bits-b77f350cea7e)
 
-Use this command to compile:
+Use this command to compile in openGL Project folder:
 
 ```g++ fluffyRunningMan.cpp GLWindow.cpp -o fluffyRunningMan -lopengl32 -lglew32 -lfreeglut -lglu32 -lgdi32```
 
